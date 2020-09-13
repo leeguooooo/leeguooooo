@@ -6,7 +6,7 @@
     :wave: Hi! my name is leeguoo.
     <br>I'm a <em>full stack developer</em>
     <br> :sparkles:<br><br>
-    <img src="http://file.leeguoo.com/Fo5VD2byKUmsnQMQd9CnZIKpSYN5" alt="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
+    <img src="http://file.leeguoo.com/Fo5VD2byKUmsnQMQd9CnZIKpSYN5" alt="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center" style="margin-left: 65px;">
     <br><br>:coffee: Wanna chat? :point_right: Click <a href="https://leeguooo.com">Blog</a>
   </samp>
 </p>
