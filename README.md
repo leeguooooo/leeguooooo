@@ -20,7 +20,8 @@
 </details>
 
 ### Contact me
-
+<p align="center">
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=leeguooooo&show_icons=true&theme=dark)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leeguooooo&theme=dark)
+</p>
