@@ -15,8 +15,7 @@
 <a title="Hits" target="_blank" href="https://leeguoo.com"><img src="https://hits.b3log.org/88250/hits.svg"></a>
 
 <details>
-  <summary><b>:telescope: 2020 goal</b></summary>
-  I won't tell you yet
+  <summary><b>:telescope: more </b></summary>
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leeguooooo&show_icons=true&theme=dark"/>
   </p>
