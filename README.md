@@ -8,7 +8,6 @@
     :wave: Hi! my name is leeguoo.
     <br>I'm a javascript full stack developer
       I'd like to make some <br><em>contributions for javascript</em> open source and
-
     <br>contributions for javascript :sparkles:<br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
     <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://leeguooo.com">Blog</a>
