@@ -1,6 +1,7 @@
 ### Hi there 👋
+<a title="Hits" target="_blank" href="https://leeguoo.com"><img src="https://hits.b3log.org/88250/hits.svg"></a>
 
-I'm a javascript full stack developer, I'd like to make some contributions for FE open source and share some thoughts on my blog and github.
+I'm a javascript full stack developer, I'd like to make some contributions for javascript open source and share some thoughts on my blog and github.
 
 ### Contact me
 
