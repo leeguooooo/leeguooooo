@@ -11,7 +11,7 @@
   </samp>
 </p>
 
-<a title="Hits" target="_blank" href="https://leeguoo.com"><img src="https://hits.b3log.org/88250/hits.svg"></a>
+<!--<a title="Hits" target="_blank" href="https://leeguoo.com"><img src="https://hits.b3log.org/88250/hits.svg"></a>-->
 
 <details>
   <summary><b>:telescope: more </b></summary>
