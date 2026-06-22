@@ -1,4 +1,4 @@
-### Hi, I'm Guo Li (郭立) — aka **leeguoo** 👋
+### Hi, I'm Guo Li (郭立) — English name **Leo**, aka **leeguoo** 👋
 
 Full-stack developer. I build small developer tools and AI-agent skills — CLIs
 that do one thing well and plug into Claude Code / Codex / your terminal.
