@@ -1,4 +1,4 @@
-### Hi, I'm Guo Li (郭立) — English name **Leo**, aka **leeguoo** 👋
+### 郭立 · Hi, I'm Guo Li (郭立) — English name **Leo**, aka **leeguoo** 👋
 
 Full-stack developer. I build small developer tools and AI-agent skills — CLIs
 that do one thing well and plug into Claude Code / Codex / your terminal.
@@ -9,7 +9,7 @@ independent and open source.
 on reverse engineering, AI agents, and building things that ship. Bilingual
 (中文 / English).
 
-🙋 **More about me → [leeguoo.com/about](https://leeguoo.com/about)**
+🙋 **More about me → [郭立 · leeguoo.com/about](https://leeguoo.com/about)**
 
 My repos are right below — pinned ones are the ones I'd start with. Mostly macOS
 + Cloudflare + AI-agent tooling.
